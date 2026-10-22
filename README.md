@@ -1,7 +1,7 @@
 # Tänkarens guide till AI
 ## En gratis svensk bok om artificiell intelligens
 
-![AI hype and doom](AI-hype-and-doom.jpeg)
+![En spricka med AI-hype, robotar och raketer på ena sidan och en vanlig användare på andra](AI-hype-and-doom.jpeg)
 
 En skeptisk dataräv bad sin AI-assistent att ärligt beskriva sig själv. Resultatet blev en bok med två röster:
 
