@@ -1,6 +1,8 @@
 # Tänkarens guide till AI
 ## En gratis svensk bok om artificiell intelligens
 
+![AI hype and doom](AI-hype-and-doom.jpeg)
+
 En skeptisk dataräv bad sin AI-assistent att ärligt beskriva sig själv. Resultatet blev en bok med två röster:
 
 - AI:ns oväntat roliga och avslöjande självporträtt,
