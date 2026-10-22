@@ -6,7 +6,7 @@
 En skeptisk dataräv bad sin AI-assistent att ärligt beskriva sig själv. Resultatet blev en bok med två röster:
 
 - AI:ns oväntat roliga och avslöjande självporträtt,
-- en praktisk ­handbok om hur du jobbar säkert och effektivt med AI‑verktyg som ChatGPT, Claude eller Lumo.
+- en praktisk handbok om hur du jobbar säkert och effektivt med AI‑verktyg som ChatGPT, Claude eller Lumo.
 
 Boken finns i två format:
 
@@ -56,7 +56,7 @@ _Varför AI misslyckas på märkliga sätt och vad jargongen döljer._
 
 ## Författaren
 
-Stefan Nilsson är docent i data­vetenskap, verksam vid KTH och Aalto-universitetet.
+Stefan Nilsson är docent i datavetenskap, verksam vid KTH och Aalto-universitetet.
 Studenterna utsåg honom till årets lärare vid båda.
 Samtidigt arbetade han som professionell trollkarl.
 
