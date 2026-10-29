@@ -8,7 +8,9 @@ En skeptisk dataräv bad sin AI-assistent att ärligt beskriva sig själv. Resul
 - AI:ns oväntat roliga och avslöjande självporträtt,
 - en praktisk handbok om hur du jobbar säkert och effektivt med AI‑verktyg som ChatGPT, Claude eller Lumo.
 
-Boken finns i två format:
+<a href="https://www.youtube.com/shorts/MC-frcZXDc0">Kort om boken på YouTube</a>
+
+Den finns i två format:
 
 - **Webbversion:** <https://yourbasic.org/ai>
 - **PDF:** i det här repot, se [Tänkarens guide till AI](Tänkarens-guide-till-AI.pdf) – anpassad för skärmläsare
@@ -59,8 +61,6 @@ _Varför AI misslyckas på märkliga sätt och vad jargongen döljer._
 Stefan Nilsson är docent i datavetenskap, verksam vid KTH och Aalto-universitetet.
 Studenterna utsåg honom till årets lärare vid båda.
 Samtidigt arbetade han som professionell trollkarl.
-
-Övriga texter: <https://yourbasic.org>
 
 ## Licens
 © 2026 Stefan Nilsson
