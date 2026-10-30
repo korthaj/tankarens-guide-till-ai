@@ -5,7 +5,7 @@
 
 En skeptisk dataräv bad sin AI-assistent att ärligt beskriva sig själv. Resultatet blev en bok med två röster:
 
-- AI:ns oväntat roliga och avslöjande självporträtt,
+- en aningslös AI:s oväntat roliga och avslöjande självporträtt,
 - en praktisk handbok om hur du jobbar säkert och effektivt med AI‑verktyg som ChatGPT, Claude eller Lumo.
 
 <a href="https://www.youtube.com/shorts/MC-frcZXDc0">Författaren berättar kort om boken på YouTube</a>
