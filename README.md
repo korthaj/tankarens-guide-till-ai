@@ -64,3 +64,8 @@ Samtidigt arbetade han som professionell trollkarl.
 
 ## Licens
 © 2026 Stefan Nilsson
+
+##
+
+![Bokens baksida med en robot som läser instruktionerna och en människa som klappar den på huvudet.](Helping-the-LLM-thumb.jpeg)
+
